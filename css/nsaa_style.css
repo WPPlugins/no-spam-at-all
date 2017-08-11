@@ -1,0 +1,206 @@
+/* Admin page    */
+.nsaa_white{
+	outline: #ccc 2px solid;
+	background-color: #FFF !important;
+	padding:20px;
+	width:60%;
+}
+
+span.inote{
+display: block;
+color:#090;
+font-style: italic;
+}
+.txt-fields{
+width:50%;
+
+}
+
+
+.nsaa_white h1{
+	color:#006;
+}
+
+.nsaa_white h1 img{
+width:32px;
+height: 32px;
+padding-right:0px;
+
+}
+
+.nsaa_white input[type='text']{
+color:#ccc;
+
+}
+.nsaa_white p label {
+	font-size: 14px;
+	color:000;
+	font-weight: bolder;
+}
+
+.nsaa_white p {
+	margin-top:25px;
+}
+.nsaa_white label {
+	display: block;
+}
+p.success{
+	color:#fff;
+	padding:10px 10px 10px 10px;
+    border:1px solid #040;
+    width: 80%;
+   /* background: #FFF; */
+    background-color: #5BB31B;
+}
+/*
+p.success span{
+	background-image: url(img/good.png);
+}
+*/
+
+/* The table of xed */
+
+table.xed{
+border:1px solid #080;
+font-size:0.8em;
+}
+
+table.xed tr{
+	border:1px solid #080;
+
+}
+
+table.xed th{
+	font-weight: bolder;
+	font-size: 1.6em;
+	background-color: #F0FAF4;
+}
+table.xed tr:nth-child(even){
+background-color:#F9F9F9;
+color:#000000;
+
+}
+
+.success {
+	color:#080;
+	font-size: 1.2em;
+	width:100%;
+	border-radius: 10px;
+	font-family:Tahoma,Geneva,Arial,sans-serif;font-size:11px;
+    padding:10px 10px 10px 36px;
+    background-color:#E9FFD9;
+    border:1px solid #a6ca8a;
+}
+
+.error {
+	color:#000;
+	font-size: 1.2em;
+	width:80%;
+	border-radius: 10px;
+	font-family:Tahoma,Geneva,Arial,sans-serif;font-size:11px;
+    padding:10px 10px 10px 36px;
+    background-color:#FFECEC;
+    border:1px solid #E16765;
+}
+
+
+/* On the boxes below */
+
+.nsaa_clear_all {
+margin-top:3px;
+width:60%;
+background-color: #fff;
+color: #000;
+outline: #ccc 2px solid;
+padding:20px;
+}
+
+.nsaa_clear_all h1{
+	color:#006;
+}
+
+.nsaa_clear_all h1 img{
+width:32px;
+height: 32px;
+
+}
+
+
+.nsaa_clear_all h3 {
+color:#EE5611;
+font-weight: bolder;
+
+}
+.nsaa_clear_all h3 p {
+margin-top:-15;
+margin-bottom: -10;
+padding: 0;
+
+}
+.nsaa_clear_btn{   
+width:50%;
+padding: 7px 10px 10px 10px;
+border-radius: 6px;
+background-color: #006;
+box-shadow: 2px 2px 4px #001;
+height: 40px;
+color:#fff;
+font-weight: bold;
+}
+
+
+.clear_all_c, .clear_by_http, .clear_all_akis{
+outline:#006 1px solid;
+margin-left: 20px;
+padding-bottom:15px;
+padding-left:15px;
+padding-top:5px;
+
+}
+
+.donate {
+	position: absolute;
+	right:30px;
+	width:130px;
+	top:150px;
+	outline:#f48611 solid 2px;
+	padding:5px;
+	border-radius:4px;
+
+
+}
+
+.nsaa_donate_btn_p {
+padding: 2px 10px 10px 10px;
+border-radius: 6px;
+background-color: #f48611;
+box-shadow: 2px 2px 4px #f48611;
+height: 50px;
+color:#fff;
+font-weight: bold;
+margin-bottom: 15px;
+
+}
+
+img #pend-load {
+margin-left:30%;
+
+}
+
+
+.btn-log{
+float:right;
+width:40%;
+padding: 7px 10px 10px 10px;
+border-radius: 6px;
+background-color: #006;
+box-shadow: 2px 2px 4px #001;
+height: 40px;
+color:#fff;
+font-weight: bold;
+margin-bottom:15px;
+}
+
+.cls{
+	clear: both;
+}

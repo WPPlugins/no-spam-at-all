@@ -1,0 +1,57 @@
+# Copyright (C) 2015 No Spam At All
+# This file is distributed under the same license as the No Spam At All package.
+msgid ""
+msgstr ""
+"Project-Id-Version: No Spam At All 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/no-spam-at-all\n"
+"POT-Creation-Date: 2015-03-28 17:42:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-04-02 13:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: es_ES\n"
+
+#: options/nsaa_options.php:36
+msgid "How often should the comment token change"
+msgstr "Cuán seguido debería el token de comentario cambiar"
+
+#: options/nsaa_options.php:48
+msgid " Include OR Exclude comment author URL"
+msgstr "Incluir O Excluir la URL del autor del comentario"
+
+#: options/nsaa_options.php:57
+msgid "Successfull comment message to real commenters"
+msgstr "Mensaje de comentario satisfactorio para comentaristas reales"
+
+#: options/nsaa_options.php:64
+msgid "Message to Evil commenters"
+msgstr "Mensaje para comentarias Malvados"
+
+#. Plugin Name of the plugin/theme
+msgid "No Spam At All"
+msgstr "No Spam At All"
+
+#. Plugin URI of the plugin/theme
+msgid "mrparagon.me/no-spam-at-all/"
+msgstr "mrparagon.me/no-spam-at-all/"
+
+#. Description of the plugin/theme
+msgid ""
+"\"No Spam At All\" prevents spam comments on your wordpress website/blog and "
+"Provides you with options to manage comments. You can go from 3,000 Spam "
+"comments per day to zero spam comments."
+msgstr ""
+"\"No Spam At All\" previene comentarios spams en su blog/sitio web de "
+"wordpress y le Provee de las opciones de gestionar comentarios. Usted puede "
+"ir desde 3000 comentarios Spam por día a cero comentarios spam."
+
+#. Author of the plugin/theme
+msgid "Kingsley Paragon"
+msgstr "Kingsley Paragon"
+
+#. Author URI of the plugin/theme
+msgid "mrparagon.me"
+msgstr "mrparagon.me"
